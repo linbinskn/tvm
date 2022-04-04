@@ -48,7 +48,7 @@ import org.jenkinsci.plugins.pipeline.modeldefinition.Utils
 // NOTE: these lines are scanned by docker/dev_common.sh. Please update the regex as needed. -->
 ci_lint = 'tlcpack/ci-lint:v0.69'
 ci_gpu = 'tlcpack/ci-gpu:v0.83'
-ci_cpu = 'tlcpack/ci-cpu:v0.82'
+ci_cpu = 'tlcpackstaging/ci_cpu:20220404-055909-fcdf4636d'
 ci_wasm = 'tlcpack/ci-wasm:v0.72'
 ci_i386 = 'tlcpack/ci-i386:v0.75'
 ci_qemu = 'tlcpack/ci-qemu:v0.12'
